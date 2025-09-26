@@ -1,0 +1,17 @@
+.navbarspace{
+  margin-right: 480px;
+  font-weight: 500;
+}
+
+
+.items{
+    font-weight: 500;
+}
+.navbarspacens{
+    margin-right: 480px;
+}
+.spacee{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}

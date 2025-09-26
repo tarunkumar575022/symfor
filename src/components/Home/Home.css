@@ -1,0 +1,45 @@
+.card{
+    height: 550px;
+    width: 1430px;
+    background-color: rgb(225, 240, 250);
+    margin: 50px;
+    border-radius: 60px;
+}
+.main-heading{
+    margin-left: 10px;
+    font-size: 50px;
+    font-weight: bold;
+}
+.flex-items{
+    display: flex;
+    flex: row;
+    margin: 60px;
+}
+.para{
+    display: flex;
+    flex: row;
+    margin: 60px;
+}
+.fonts{
+    display: flex;
+    flex: row;
+    margin: 60px;
+}
+.icon-container{
+    margin: 50px;
+    border-radius: 60px;    
+}
+.time{
+    height: 30px;
+    width: 160px;
+    background-color: rgb(198, 209, 216);
+}
+.spoon{
+    height: 30px;
+    width: 160px;
+    background-color: rgb(198, 209, 216);
+}
+.user{
+    display: flex;
+    flex: column;
+}
